@@ -1,1 +1,1 @@
-PROJECT 0x02. C - Functions, nested loops
+PROJECT 0x04. C - Functions, nested loops
